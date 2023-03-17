@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+
+1. Primeiro Item
+2. Segundo Item
+3. Terceira Item
+
+
+* Item A
+* Item B
+* Item C
+
+[] Item D
+[] Item C
+[] Item D
 <!--
 **ThiagoLima45/ThiagoLima45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
